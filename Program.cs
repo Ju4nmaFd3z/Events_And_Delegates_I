@@ -6,7 +6,7 @@ namespace Ejercicios_Eventos
     {
         static void Main(string[] args)
         {
-            Ejercicio2.Prueba.Ejecutar();
+            Ejercicio3.Prueba.Ejecutar();
         }
     }
 }
